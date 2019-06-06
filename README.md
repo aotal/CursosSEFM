@@ -1,85 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <title>Cursos SEFM 2019</title>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
-
-    /* Create three equal columns that floats next to each other */
-    .column {
-      float: left;
-      width: 25%;
-    }
-
-    /* Clear floats after the columns */
-    .row:after {
-      content: "";
-      display: table;
-      clear: both;
-    }
-  </style>
-  <link rel = "icon" href =  "Icons/LogoSEFM.png" type = "image/x-icon">
-</head>
-<style>
-  * {
-    box-sizing: border-box;
-  }
-
-  /* Create three equal columns that floats next to each other */
-  .column {
-    float: left;
-    width: 25%;
-    padding: 10px
-  }
-
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-</style>
-
-<body>
   <h3>Noviembre 2019</h3>
-  <style type="text/css">
-    .tg {
-      border-collapse: collapse;
-      border-spacing: 0;
-    }
-
-    .tg td {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg th {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg .tg-0pky {
-      border-color: inherit;
-      text-align: left;
-      vertical-align: top
-    }
-  </style>
   <table class="tg">
     <tr>
       <th class="tg-0pky">Fecha</th>
@@ -113,41 +32,6 @@
     </tr>
   </table>
   <h3>Octubre 2019</h3>
-  <style type="text/css">
-    .tg {
-      border-collapse: collapse;
-      border-spacing: 0;
-    }
-
-    .tg td {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg th {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg .tg-0pky {
-      border-color: inherit;
-      text-align: left;
-      vertical-align: top
-    }
-  </style>
   <table class="tg">
     <tr>
       <th class="tg-0pky">Fecha</th>
@@ -181,41 +65,6 @@
     </tr>
   </table>
   <h3>Septiembre 2019</h3>
-  <style type="text/css">
-    .tg {
-      border-collapse: collapse;
-      border-spacing: 0;
-    }
-
-    .tg td {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg th {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg .tg-0pky {
-      border-color: inherit;
-      text-align: left;
-      vertical-align: top
-    }
-  </style>
   <table class="tg">
     <tr>
       <th class="tg-0pky">Fecha</th>
@@ -255,41 +104,6 @@
     </tr>
   </table>
   <h3>Julio 2019</h3>
-  <style type="text/css">
-    .tg {
-      border-collapse: collapse;
-      border-spacing: 0;
-    }
-
-    .tg td {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg th {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg .tg-0pky {
-      border-color: inherit;
-      text-align: left;
-      vertical-align: top
-    }
-  </style>
   <table class="tg">
     <tr>
       <th class="tg-0pky">Fecha</th>
@@ -311,41 +125,6 @@
     </tr>
   </table>
   <h3>Junio 2019</h3>
-  <style type="text/css">
-    .tg {
-      border-collapse: collapse;
-      border-spacing: 0;
-    }
-
-    .tg td {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg th {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg .tg-0pky {
-      border-color: inherit;
-      text-align: left;
-      vertical-align: top
-    }
-  </style>
   <table class="tg">
     <tr>
       <th class="tg-0pky">Fecha</th>
@@ -410,41 +189,6 @@
     </tr>
   </table>
   <h3>Mayo 2019</h3>
-  <style type="text/css">
-    .tg {
-      border-collapse: collapse;
-      border-spacing: 0;
-    }
-
-    .tg td {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg th {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg .tg-0pky {
-      border-color: inherit;
-      text-align: left;
-      vertical-align: top
-    }
-  </style>
   <table class="tg">
     <tr>
       <th class="tg-0pky">Fecha</th>
@@ -478,41 +222,6 @@
     </tr>
   </table>
   <h3>Abril 2019</h3>
-  <style type="text/css">
-    .tg {
-      border-collapse: collapse;
-      border-spacing: 0;
-    }
-
-    .tg td {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg th {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg .tg-0pky {
-      border-color: inherit;
-      text-align: left;
-      vertical-align: top
-    }
-  </style>
   <table class="tg">
     <tr>
       <th class="tg-0pky">Fecha</th>
@@ -546,41 +255,6 @@
     </tr>
   </table>
   <h3>Marzo 2019</h3>
-  <style type="text/css">
-    .tg {
-      border-collapse: collapse;
-      border-spacing: 0;
-    }
-
-    .tg td {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg th {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg .tg-0pky {
-      border-color: inherit;
-      text-align: left;
-      vertical-align: top
-    }
-  </style>
   <table class="tg">
     <tr>
       <th class="tg-0pky">Fecha</th>
@@ -644,41 +318,6 @@
     </tr>
   </table>
   <h3>Febrero 2019</h3>
-  <style type="text/css">
-    .tg {
-      border-collapse: collapse;
-      border-spacing: 0;
-    }
-
-    .tg td {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg th {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg .tg-0pky {
-      border-color: inherit;
-      text-align: left;
-      vertical-align: top
-    }
-  </style>
   <table class="tg">
     <tr>
       <th class="tg-0pky">Fecha</th>
@@ -700,41 +339,6 @@
     </tr>
   </table>
   <h3>Enero 2019</h3>
-  <style type="text/css">
-    .tg {
-      border-collapse: collapse;
-      border-spacing: 0;
-    }
-
-    .tg td {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg th {
-      font-family: Arial, sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      padding: 10px 5px;
-      border-style: solid;
-      border-width: 1px;
-      overflow: hidden;
-      word-break: normal;
-      border-color: black;
-    }
-
-    .tg .tg-0pky {
-      border-color: inherit;
-      text-align: left;
-      vertical-align: top
-    }
-  </style>
   <table class="tg">
     <tr>
       <th class="tg-0pky">Fecha</th>
@@ -749,6 +353,3 @@
       <td class="tg-0pky">Madrid (España)</td>
     </tr>
   </table>
-</body>
-
-</html>
