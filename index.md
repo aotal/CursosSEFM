@@ -2,9 +2,9 @@
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    [![](./Icons/LogoESTRO.png)](http://eutempe-net.eu/) |
+| col 1 is |  left-aligned | [![](./Icons/LogoESTRO.png)](http://eutempe-net.eu/) |
+| col 2 is |    centered   |   [![](./Icons/LogoESTRO.png)](http://eutempe-net.eu/) |
+| col 3 is | right-aligned |    [![](Icons/LogoESTRO.png)](http://eutempe-net.eu/) |
 
   <h3>Noviembre 2019</h3>
   <table class="tg">
