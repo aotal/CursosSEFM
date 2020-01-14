@@ -1,5 +1,5 @@
 ---
-title-img: "./Icons/favicon-32x32.png"
+author: Antonio Otal Palacín
 ---
 # Cursos SEFM 2019
 
