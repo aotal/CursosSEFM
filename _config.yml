@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Cursos SEFM 2019
 description: Cursos avalados por la SEFM y de interés.
-title-img: "/Icons/favicon-32x32.png"
+title-img: "./Icons/favicon-32x32.png"
