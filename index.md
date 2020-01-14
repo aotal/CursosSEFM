@@ -3,7 +3,7 @@
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | [![](./Icons/LogoESTRO.png)](http://eutempe-net.eu/) |
-| col 2 is |    centered   |   [![](./Icons/LogoESTRO.png)](http://eutempe-net.eu/) |
+| col 2 is |    centered   |   [![](./Icons/LogoESTRO.png =25x25)](http://eutempe-net.eu/) |
 | col 3 is | right-aligned |    [![](Icons/LogoESTRO.png){width=50%}](http://eutempe-net.eu/) |
 
   <h3>Noviembre 2019</h3>
