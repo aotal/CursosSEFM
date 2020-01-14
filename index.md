@@ -17,7 +17,7 @@
     <tr>
       <td class="tg-0pky">21-22 de Noviembre de 2019</td>
       <td class="tg-0pky"><a href="https://www.estro.org/congresses-meetings/items/7th-gec-estro-workshop">7th GEC-ESTRO workshop</a></td>
-      <td class="tg-0pky"><a title="estro" href="https://estro.org/"><img src="Icons/LogoESTRO.png" alt="estro" height=30 class="inline"/></a></td>
+      <td class="tg-0pky"><a title="estro" href="https://estro.org/"><img src="../Icons/LogoESTRO.png" alt="estro" height=30/></a></td>
       <td class="tg-0pky">Lovaina (Bélgica)</td>
     </tr>
     <tr>
