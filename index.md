@@ -1,4 +1,6 @@
-{{site.title-img}}
+---
+title-img: "./Icons/favicon-32x32.png"
+---
 # Cursos SEFM 2019
 
 
