@@ -3,7 +3,7 @@
 ## Noviembre
 
 | Fecha   |     Título      |  Avalado |Sede|
-|:----------|:-------------|:------:|:-------:|
+|:----------|:-------------|------:|:-------:|
 |18-22 de Noviembre de 2019|[Advanced QA protocols: use and development. Going beyond existing or outdated QC standards](http://eutempe-net.eu/mpe06/)|[![](Icons/LogoEUTEMPE.png)](http://eutempe-net.eu/)|Lovaina (Bélgica)
 | 21-22 de Noviembre de 2019  | [7th GEC-ESTRO workshop](https://www.estro.org/Workshops/2019/GEC-ESTRO/7TH-GEC-ESTRO-WORKSHOP)  | [![](Icons/LogoESTRO.png)](https://estro.org/)|  Budapest (Hungría) |
 | 13-15 de Noviembre de 2019  | [XII Curso de instrumentación y control de calidad en medicina nuclear](http://www.aulaclinic.com/cursos/561/xii-curso-de-instrumentacion-y-control-de-calidad-en-medicina-nuclear)  |  [![](Icons/LogoSEFM.png)](https://sefm.es/) [![](https://semnim.es/wp-content/uploads/2019/06/cropped-logo-semnim.png)](https://www.semnim.es/) |Barcelona (España)
@@ -14,7 +14,7 @@
 ## Octubre
 
 | Fecha   |     Título      |  Avalado |Sede|
-|:----------|:-------------|:------:|:-------:|
+|:----------|:-------------|------:|:-------:|
 | Octubre-Noviembre  | [Curso Online de Actualización en Braquiterapia](https://sefm.es/eventos/2a-edicion-curso-online-de-actualizacion-en-braquiterapia/)  | [![](Icons/LogoSEFM.png)](https://sefm.es/)  | Online  |
 | 25-26 de Octubre de 2019  | [3rd ESTRO Physics Workshop - Science in Development](https://www.estro.org/Workshops/2019/Physics/3RD-ESTRO-PHYSICS-WORKSHOP-SCIENCE-IN-DEVELOPMENT)  | [![](Icons/LogoESTRO.png)](https://estro.org/)  | Budapest (Hungría)  |
 | 14-16 de Octubre de 2019  | [Optimising the performance of x-ray imaging units](http://eutempe-net.eu/mpe07/)  | [![](Icons/LogoEUTEMPE.png)](http://eutempe-net.eu/)  | Guildford (GB)  |
