@@ -1,6 +1,3 @@
----
-author: Antonio Otal Palacín
----
 # Cursos SEFM 2019
 
 

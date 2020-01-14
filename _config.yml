@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: Cursos SEFM 2019
 author: Antonio Otal Palacín
 description: Cursos avalados por la SEFM y de interés.
-title-img: "./Icons/favicon-32x32.png"
+plugins:
+  - jekyll-avatar
