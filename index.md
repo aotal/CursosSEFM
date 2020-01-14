@@ -1,9 +1,11 @@
 <h2>Cursos SEFM 2019</h2>
+
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    ![](https://semnim.es/wp-content/uploads/2019/06/cropped-logo-semnim.png) |
+
   <h3>Noviembre 2019</h3>
   <table class="tg">
     <tr>
