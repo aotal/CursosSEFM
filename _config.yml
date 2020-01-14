@@ -1,35 +1,5 @@
 theme: jekyll-theme-cayman
 title: Cursos SEFM 2019
+author: Antonio Otal Palacín
 description: Cursos avalados por la SEFM y de interés.
 title-img: "./Icons/favicon-32x32.png"
-author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/Icons/LogoSEFM.png"
-  bio              : "A global community of volunteers."
-  location         :
-  email            :
-  uri              :
-  home             :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : *facebook
-  foursquare       :
-  github           : "opendatakit"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # https://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : *twitter
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
