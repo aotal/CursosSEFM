@@ -1,11 +1,12 @@
 <h2>Cursos SEFM 2019</h2>
 ## Tabla de prueba
+
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
-    
+
 
   <h3>Noviembre 2019</h3>
   <table class="tg">
