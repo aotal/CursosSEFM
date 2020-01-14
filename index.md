@@ -3,7 +3,7 @@
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | ![<img src="Icons/LogoESTRO.png">](https://estro.org) |
+| col 1 is |  left-aligned | ![<img src="./Icons/LogoESTRO.png">](https://estro.org) |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
