@@ -12,7 +12,7 @@
       <td class="tg-0pky">18-22 de Noviembre de 2019</td>
       <td class="tg-0pky"><a href="http://eutempe-net.eu/mpe06/">Advanced QA protocols: use and development. Going beyond existing or outdated QC standards</a></td>
       <td class="tg-0pky"><a title="eutempe" href="http://eutempe-net.eu/"><img src="https://semnim.es/wp-content/uploads/2019/06/cropped-logo-semnim.png" alt="eutempe" height=30/></a></td>
-      <td class="tg-0pky">Lovaina (Bélgica)</td>
+      <td class="tg-0pky"><img src="https://semnim.es/wp-content/uploads/2019/06/cropped-logo-semnim.png" alt="eutempe" height=30/></td>
     </tr>
     <tr>
       <td class="tg-0pky">21-22 de Noviembre de 2019</td>
