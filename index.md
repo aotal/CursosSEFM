@@ -7,38 +7,13 @@
 | col 3 is | right-aligned |    [![](Icons/LogoESTRO.png ){width=35%}](http://eutempe-net.eu/) |
 
   <h3>Noviembre 2019</h3>
-  <table class="tg">
-    <tr>
-      <th class="tg-0pky">Fecha</th>
-      <th class="tg-0pky">Título</th>
-      <th class="tg-0pky">Avalado</th>
-      <th class="tg-0pky">Sede</th>
-    </tr>
-    <tr>
-      <td class="tg-0pky">18-22 de Noviembre de 2019</td>
-      <td class="tg-0pky"><a href="http://eutempe-net.eu/mpe06/">Advanced QA protocols: use and development. Going beyond existing or outdated QC standards</a></td>
-      <td class="tg-0pky"><a title="eutempe" href="http://eutempe-net.eu/"><img src="https://semnim.es/wp-content/uploads/2019/06/cropped-logo-semnim.png" alt="eutempe" height=30/></a></td>
-      <td class="tg-0pky"><img src="https://semnim.es/wp-content/uploads/2019/06/cropped-logo-semnim.png" alt="eutempe" height=30/></td>
-    </tr>
-    <tr>
-      <td class="tg-0pky">21-22 de Noviembre de 2019</td>
-      <td class="tg-0pky"><a href="https://www.estro.org/congresses-meetings/items/7th-gec-estro-workshop">7th GEC-ESTRO workshop</a></td>
-      <td class="tg-0pky"><a title="estro" href="https://estro.org/"><img src="./Icons/LogoESTRO.png" alt="estro" height=30/></a></td>
-      <td class="tg-0pky">Lovaina (Bélgica)</td>
-    </tr>
-    <tr>
-      <td class="tg-0pky">11-15 de Noviembre de 2019</td>
-      <td class="tg-0pky"><a href="http://www.ciemat.es/cargarFichaCursoWeb.do?texto=&identificador=427&idCategoria=0&fechaDesde=&fechaHasta=">Aplicaciones del almacenamiento de energía en sistemas eléctricos</a></td>
-      <td class="tg-0pky"><a title="ciemat" href="http://www.ciemat.es/"><img src="Icons/LogoCIEMAT.png" alt="ciemat" height=30/></a></td>
-      <td class="tg-0pky">Lovaina (Bélgica)</td>
-    </tr>
-    <tr>
-      <td class="tg-0pky">3-6 de Noviembre de 2019</td>
-      <td class="tg-0pky"><a href="https://www.estro.org/school/list-courses-school-main-pages/2019-courses/2019-madrid-research-course-in-radiotherapy-physics">Research Course in Radiotherapy Physics</a></td>
-      <td class="tg-0pky"><a title="estro" href="https://estro.org/"><img src="Icons/LogoESTRO.png" alt="estro" height=30/></a></td>
-      <td class="tg-0pky">Madrid (España)</td>
-    </tr>
-  </table>
+
+| Fecha   |     Título      |  Avalado |Sede|
+|18-22 de Noviembre de 2019|[Advanced QA protocols: use and development. Going beyond existing or outdated QC standards](http://eutempe-net.eu/mpe06/)|[![](Icons/LogoEUTEMPE.png)](http://eutempe-net.eu/)|Lovaina (Bélgica)
+
+
+
+
   <h3>Octubre 2019</h3>
   <table class="tg">
     <tr>
