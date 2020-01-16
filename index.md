@@ -21,3 +21,14 @@
 | 14-16 de Octubre de 2019  | [Optimising the performance of x-ray imaging units](http://eutempe-net.eu/mpe07/)  | [![](Icons/LogoEUTEMPE.png)](http://eutempe-net.eu/)  | Guildford (GB)  |
 | 13-16 de Octubre de 2019  | [Image-Guided Radiotherapy and Chemotherapy in Gynaecological Cancer: Focus on MRI Based Adaptive Brachytherapy](https://www.estro.org/school/list-courses-school-main-pages/2019-courses/2019-cluj-image-guided-rt-and-chemotherapy-in-gynae-ca-focus-on-mri-based-adaptive-bt)  |  [![](Icons/LogoESTRO.png)](https://estro.org/) | Dublin (Irlanda)  |
 | 12-16 de Octubre de 2019  | [Image-Guided Radiotherapy and Chemotherapy in Gynaecological Cancer: Focus on MRI Based Adaptive Brachytherapy](https://www.estro.org/school/list-courses-school-main-pages/2019-courses/2019-cluj-image-guided-rt-and-chemotherapy-in-gynae-ca-focus-on-mri-based-adaptive-bt)  | [![](Icons/LogoESTRO.png)](https://estro.org/)  | Cluj (Rumanía)  |
+
+## Septiembre
+
+| Fecha   |     Título      |  Avalado |Sede|
+|:----------|:-------------|------:|:-------:|
+| 29 de Septiembre-3 de Octubre de 2019  |  [Imaging for Physicists](https://www.estro.org/school/list-courses-school-main-pages/2019-courses/2019-manchester-imaging-for-physicists) | [![](Icons/LogoESTRO.png)](https://estro.org/)  | Manchester (GB)  |
+| 24-28 de Septiembre de 2019  | [Advanced diagnostic and interventional radiology](http://eutempe-net.eu/mpe04/)  | [![](Icons/LogoEUTEMPE.png)](http://eutempe-net.eu/)  | Ferrara (Italia)  |
+| 22-26 de Septiembre de 2019  | [Advanced Treatment Planning](https://www.estro.org/school/list-courses-school-main-pages/2019-courses/2019-budapest-advanced-treatment-planning)  | [![](Icons/LogoESTRO.png)](https://estro.org/)  | Budapest (Hungría)  |
+| 18-20 de Septiembre de 2019  |  [DICOM 101](https://sefm.es/eventos/digital-imaging-and-communications-in-medicine-dicom-101/) | [![](Icons/LogoSEFM.png)](https://sefm.es/)  | Granada (España)  |
+| 8-12 de Septiembre de 2019  | [Physics for Modern Radiotherapy](https://www.estro.org/school/list-courses-school-main-pages/2019-courses/2019-riga-physics-for-modern-radiotherapy)  | [![](Icons/LogoESTRO.png)](https://estro.org/)  | Riga (Letonia)  |
+| 1-5 de Septiembre de 2019  |  [Clinical Practice and Implementation of Image-Guided Stereotactic Body Radiotherapy](https://www.estro.org/school/list-courses-school-main-pages/2019-courses/2019-florence-clinical-practice-and-implementation-of-image-guided-stereotactic-body-radiotherapy) |  [![](Icons/LogoESTRO.png)](https://estro.org/) |  Florencia (Italia) |
