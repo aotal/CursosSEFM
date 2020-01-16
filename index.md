@@ -36,7 +36,7 @@
 
 ## Julio
 
-|                                              Avalado |        Sede        |
+| Fecha                                 | Título                                                                                                                                                                                                                                                            |                                              Avalado |        Sede        |
 | :------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------: | :----------------: |
 | 8-26 de Julio de 2019  | [3º Curso de Imagen Médica y Protonterapia](http://protonterapia.wixsite.com/ecv2019)  | [![](Icons/LogoUCM.png)](https://www.ucm.es/)  |  Madrid (España) |
 | 8-12 de Julio de 2019  | [EUTEMPE - MPE03: Monte Carlo simulation of X-ray imaging and dosimetry](http://eutempe-net.eu/mpe03/)  |  [![](Icons/LogoEUTEMPE.png)](http://eutempe-net.eu/) [![](Icons/LogoSEFM.png)](https://sefm.es/) | Barcelona (España)  |
