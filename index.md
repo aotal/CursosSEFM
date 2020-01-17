@@ -72,7 +72,6 @@
 |  9 de Abril de 2019 | [5th European Particle Therapy Network (EPTN)](https://estro.org/congresses-meetings/items/5th-european-particle-therapy-network-eptn)  | [![](Icons/LogoESTRO.png)](https://estro.org/)  | Bruselas (Bélgica)  |
 | 5-9 de Abril de 2019  | [Dosimetría en campos pequeños. Verificación de planes de tratamiento y control de calidad en IMRT/VMAT](https://sefm.es/eventos/dosimetria-campos-pequenos-verificacion-planes-tratamiento-control-calidad/)  | [![](Icons/LogoSEFM.png)](https://sefm.es/)  | Pamplona (España)  |
 | 5-6 de Abril de 2019  |  [Reunión GORVAMUR post-ASTRO](http://gorvamur.org/eventos/reunion-post-astro-2018) | [![](Icons/LogoGorvamur.png)](http://gorvamur.org/)  | Valencia (España) |
-|   |   |   |   |
 
 
 ## Marzo
